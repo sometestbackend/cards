@@ -1,7 +1,0 @@
-{
-  "cards": [
-    { "id": 1, "title": "Product 1", "desc": "Desc of product 11" },
-    { "id": 2, "title": "Product 2", "desc": "Desc of product 2" },
-    { "id": 3, "title": "Product 3", "desc": "Desc of product 3" }
-  ]
-}
