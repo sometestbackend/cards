@@ -1,2 +1,2 @@
 # cards
-ACHKI
+ACHK
